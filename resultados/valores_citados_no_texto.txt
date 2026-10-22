@@ -1,0 +1,7 @@
+VPA total 2014-2021 (telefone fixo): -2,05 (-2,71; -1,38); p-valor <0,001
+Regressão logística: n analisado: 393.718
+Regressão logística: excluídos sem raça/cor: 15.299
+OR por edição (2014-2024): 1,010 (1,001; 1,018)
+OR por edição (sem 2024): 0,991 (0,981; 1,002)
+Interação escolaridade x edição, p-valor (2014-2024): 0,424
+Interação escolaridade x edição, p-valor (2014-2023): 0,158
